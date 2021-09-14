@@ -1,8 +1,8 @@
 # CIS641-HW2-Vanderklok
 # Lauren Vanderklok
-*gardening
-*cooking
-*Game Dev
+* gardening
+* cooking
+* Game Dev
 ## Technical Background
 Undergraduate in GV's computer science major. Entering the graduate program next semester. Previously worked at GHSP developing 
 CAN networking testing software for GHSP shifters. As my programming knowledge relates to the project I will be working on this semester,.
