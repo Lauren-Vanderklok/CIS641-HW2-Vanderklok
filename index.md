@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Lauren Vanderklok
 
-You can use the [editor on GitHub](https://github.com/Lauren-Vanderklok/CIS641-HW2-Vanderklok/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# CIS641-HW2-Vanderklok
+# Lauren Vanderklok
+* gardening
+* cooking
+* Game Dev
+## Technical Background
+Undergraduate in GV's computer science major. Entering the graduate program next semester. Previously worked at GHSP developing 
+CAN networking testing software for GHSP shifters. As my programming knowledge relates to the project I will be working on this semester,.
+I have used unity to make andriod apps before, but I have not spent alot of time on it since high school, and I have not worked
+with unity in 2d before, so I will need some time to refresh my skills. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lauren-Vanderklok/CIS641-HW2-Vanderklok/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<img src="https://s.yimg.com/uu/api/res/1.2/xy8jxuV2zpB956RYZ5b0hA--~B/Zmk9ZmlsbDtoPTQyMTt3PTY3NTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2021-02/572c4830-721d-11eb-bb63-96959c3b62f2.cf.jpg" width=400><br>
